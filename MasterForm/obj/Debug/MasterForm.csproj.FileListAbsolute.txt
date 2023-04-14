@@ -1,0 +1,236 @@
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.Form1.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.UserControl1.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\MasterForm\obj\Debug\MasterForm.UserControl2.resources
+E:\C#\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe.config
+E:\C#\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe
+E:\C#\BaiTapLon\MasterForm\bin\Debug\MasterForm.pdb
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.exe
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.pdb
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\MasterForm.exe.config
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\MasterForm.exe
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\MasterForm.pdb
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.exe
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.pdb
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_CaiDat.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_DonHang.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormKhachHang.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormQuanLy.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormQuanLyNhanVien.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormSanPham.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Documents\winForm\MasterForm\BanHang\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\EntityFramework.dll
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\EntityFramework.xml
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+E:\C#\BaiTapLonC#\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.FormMain.resources
+E:\C#\BaiTapLonC#\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\MasterForm.exe.config
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\MasterForm.exe
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\MasterForm.pdb
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\EntityFramework.dll
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\EntityFramework.xml
+E:\C#\BaiTapLonC# - Copy\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.FormMain.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_ThongKe.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.exe
+E:\C#\BaiTapLonC# - Copy\MasterForm\obj\Debug\MasterForm.pdb
+E:\C#\BaiTapLon\MasterForm\bin\Debug\EntityFramework.dll
+E:\C#\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\BaiTapLon\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BaiTapLon\MasterForm\bin\Debug\EntityFramework.xml
+E:\C#\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormMain.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormMain.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.dll
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.xml
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormDanhMuc.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhaCungCap.resources
+E:\C#\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormPassWord.resources
+D:\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe.config
+D:\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe
+D:\BaiTapLon\MasterForm\bin\Debug\MasterForm.pdb
+D:\BaiTapLon\MasterForm\bin\Debug\EntityFramework.dll
+D:\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaiTapLon\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+D:\BaiTapLon\MasterForm\bin\Debug\EntityFramework.xml
+D:\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormDanhMuc.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhaCungCap.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormPassWord.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormMain.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.exe
+D:\BaiTapLon\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormDanhMuc.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhaCungCap.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormPassWord.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormMain.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\ASUS\OneDrive\Máy tính\BaiTapLon\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormDanhMuc.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhaCungCap.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormPassWord.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_HoaDon.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormNhapHang.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormMain.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_KhachHang.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.FormLogin.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_NhapHang.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_QuanLyNhanVien.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_SanPham.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.UC_TrangChu.resources
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.csproj.CopyComplete
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\Admin\Downloads\BaiTapLon\MasterForm\obj\Debug\MasterForm.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fb4390664b8d41738835abf2afa4d83f" Name="Diagram1">
+        <EntityTypeShape EntityType="BanHangModel.ChiTietDonHang" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.ChiTietHoaDon" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.DanhMucHang" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.DonHang" Width="1.5" PointX="3" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.HoaDon" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.KhachHang" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.NhaCungCap" Width="1.5" PointX="0.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.NhanVien" Width="1.5" PointX="0.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.SanPham" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangModel.sysdiagram" Width="1.5" PointX="5.75" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="BanHangModel.FK__ChiTietDon__MaDh__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__ChiTietDon__Masp__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__ChiTietHoa__MaHd__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__ChiTietHoa__Masp__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__ChiTietHoa__Masp__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__SanPham__MaDM__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__DonHang__MaNhaCu__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__DonHang__Manv__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__HoaDon__makh__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangModel.FK__HoaDon__manv__33D4B598" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
